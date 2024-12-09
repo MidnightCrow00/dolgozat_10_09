@@ -1,6 +1,6 @@
 package hu.szamalk.jatekProgram;
 
-public class Babu {
+public class Babu extends LogikaiJatek{
     private int ero;
     private String szint;
 
