@@ -9,19 +9,8 @@ public class Babu {
     }
 
     public Babu(int ero, String szint) {
-        this.ero = 1;
+        this.ero = ero;
         this.szint = szint;
     }
 
-    public int getEro() {
-        int max=9;
-        for (int min = 1; min <= max; min++) {
-            ero++;
-        }
-        return ero;
-    }
-
-    public String getSzint() {
-        return szint;
-    }
 }
