@@ -9,5 +9,7 @@ public class Main {
         }
         System.out.println("Üres oszlopok száma:"+t.getUresOszlop());
         System.out.println("Üres sorok száma:"+t.getUresSor());
+    // F2
+
     }
 }
